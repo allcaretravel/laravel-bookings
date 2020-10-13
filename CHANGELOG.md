@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](CONTRIBUTING.md).
 
+## [v5.0.0] - 2020-10-13
+- Drop using laravel v7
+- Support laravel v8
+- Updated devependencies
 
 ## [v4.1.0] - 2020-06-15
 - Update validation rules
