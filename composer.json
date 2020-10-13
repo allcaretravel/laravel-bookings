@@ -1,5 +1,5 @@
 {
-    "name": "rinvex/laravel-bookings",
+    "name": "allcaretravel/laravel-bookings",
     "description": "Rinvex Bookings is a generic resource booking system for Laravel, with the required tools to run your SAAS like services efficiently. It has a simple architecture, with powerful underlying to afford solid platform for your business.",
     "type": "library",
     "keywords": [
@@ -12,15 +12,16 @@
         "database",
         "laravel",
         "price",
-        "rates"
+        "rates",
+        "allcaretravel"
     ],
     "license": "MIT",
-    "homepage": "https://rinvex.com",
+    "homepage": "https://allcaretravel.com",
     "support": {
-        "email": "help@rinvex.com",
-        "issues": "https://github.com/rinvex/laravel-bookings/issues",
-        "source": "https://github.com/rinvex/laravel-bookings",
-        "docs": "https://github.com/rinvex/laravel-bookings/blob/master/README.md"
+        "email": "sophy.s@allcaretravel.com",
+        "issues": "https://github.com/allcaretravel/laravel-bookings/issues",
+        "source": "https://github.com/allcaretravel/laravel-bookings",
+        "docs": "https://github.com/allcaretravel/laravel-bookings/blob/master/README.md"
     },
     "authors": [
         {
@@ -43,11 +44,6 @@
             "homepage": "https://allcaretravel.com",
             "email": "sophy.s@allcaretravel.com",
             "role": "Technical Lead"
-        },
-        {
-            "name": "ALLCARE TRAVEL",
-            "homepage": "https://allcaretravel.com",
-            "email": "sophy.s@allcaretravel.com"
         }
     ],
     "require": {
